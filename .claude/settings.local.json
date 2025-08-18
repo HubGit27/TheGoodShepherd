@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npm run build:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npm ls:*)",
+      "Bash(rm:*)",
+      "Bash(find:*)",
+      "WebFetch(domain:docs.stripe.com)",
+      "WebFetch(domain:developers.telnyx.com)",
+      "Bash(npx prisma migrate dev:*)",
+      "Bash(node:*)",
+      "Bash(mkdir:*)",
+      "Bash(npx prisma db execute:*)",
+      "Bash(npx prisma:*)",
+      "Bash(npm run dev:*)",
+      "Bash(powershell:*)",
+      "Bash(npm run dev:*)",
+      "Bash(rm:*)",
+      "WebSearch",
+      "WebFetch(domain:orm.drizzle.team)",
+      "Bash(npx drizzle-kit introspect:*)",
+      "Bash(npx drizzle-kit:*)",
+      "Bash(grep:*)",
+      "WebFetch(domain:www.better-auth.com)",
+      "Bash(npx @better-auth/cli generate:*)",
+      "Bash(psql:*)",
+      "Bash(npm run typecheck:*)",
+      "Bash(npm run:*)"
+    ],
+    "deny": [],
+    "defaultMode": "acceptEdits"
+  }
+}
