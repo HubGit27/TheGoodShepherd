@@ -24,9 +24,15 @@ export default function HeroSection() {
             <h1 className="text-4xl lg:text-5xl font-semibold text-slate-900 mb-6 tracking-tight">
               {t('hero.title')}
             </h1>
-            <p className="text-lg text-slate-600 mb-8 leading-relaxed">
+            <p className="text-lg text-slate-600 mb-6 leading-relaxed">
               {t('hero.description')}
             </p>
+            
+            <blockquote className="border-l-4 border-blue-600 pl-6 mb-8 italic text-slate-700">
+              "Commit to the Lord whatever you do, and he will establish your plans."
+              <cite className="block text-sm text-slate-500 mt-1 not-italic">- Proverbs 16:3</cite>
+            </blockquote>
+            
             <div className="flex flex-col sm:flex-row space-y-3 sm:space-y-0 sm:space-x-4">
               <Link
                 href={`/${locale}/contact`}
