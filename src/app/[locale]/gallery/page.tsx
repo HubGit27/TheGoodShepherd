@@ -12,15 +12,14 @@ import AnimatedSection from '@/components/AnimatedSection'
 const galleryImages = [
   {
     id: '1',
-    src: 'https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&h=600&fit=crop',
-    // src: '/images/gallery/project-1.jpg',
-    alt: 'Construction work',
+    src: '/images/gallery/project-1.jpg',
+    alt: 'Construction work by The Good Shepherd',
     category: 'home-contracting',
     title: 'Home Renovation Project'
   },
   {
     id: '2',
-     src: 'https://images.unsplash.com/photo-1581244277943-fe4a9c777189?w=800&h=600&fit=crop',
+    src: 'https://images.unsplash.com/photo-1581244277943-fe4a9c777189?w=800&h=600&fit=crop',
     //src: '/images/gallery/project-2.jpg',
     alt: 'Drywall installation',
     category: 'drywall',
@@ -36,7 +35,7 @@ const galleryImages = [
   },
   {
     id: '4',
-     src: 'https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop',
+    src: 'https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop',
     //src: '/images/gallery/project-4.jpg',
     alt: 'Flooring installation',
     category: 'flooring',
@@ -44,7 +43,7 @@ const galleryImages = [
   },
   {
     id: '5',
-     src: 'https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=800&h=600&fit=crop',
+    src: 'https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=800&h=600&fit=crop',
     //src: '/images/gallery/project-5.jpg',
     alt: 'Roofing work',
     category: 'roofing',
@@ -52,6 +51,7 @@ const galleryImages = [
   },
   {
     id: '6',
+    src: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop',
     //src: '/images/gallery/project-6.jpg',
     alt: 'Deck construction',
     category: 'deck-building',
