@@ -1,6 +1,6 @@
 # Build "The Good Shepherd" Construction Company Website
 
-Please create a complete Next.js website for "The Good Shepherd", a faith-based family construction company. 
+Please create a complete Next.js website for "The Good Shepherd", a faith-based family construction company.
 
 ## Tech Requirements
 - **Next.js** with App Router for maximum SSR and SEO optimization

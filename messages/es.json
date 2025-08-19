@@ -1,0 +1,87 @@
+{
+  "site": {
+    "title": "The Good Shepherd Construction",
+    "tagline": "Construido en Fe",
+    "description": "Empresa familiar de construcción impulsada por la fe, sirviendo a nuestra comunidad con integridad, calidad y valores cristianos."
+  },
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "services": "Servicios",
+    "testimonials": "Testimonios",
+    "beforeAfter": "Antes y Después",
+    "gallery": "Galería",
+    "contact": "Contacto",
+    "getQuote": "Cotización",
+    "language": "English"
+  },
+  "hero": {
+    "subtitle": "Excelencia Impulsada por la Fe",
+    "title": "Construyendo con Integridad y Fe",
+    "description": "Sirviendo a nuestra comunidad con artesanía honesta y valores cristianos. Desde reparaciones del hogar hasta renovaciones completas, construimos relaciones duraderas un proyecto a la vez.",
+    "startProject": "Iniciar Su Proyecto",
+    "callUs": "Llámanos"
+  },
+  "values": {
+    "title": "Nuestra Base",
+    "subtitle": "Construido sobre principios cristianos y dedicado a servir a nuestra comunidad con excelencia",
+    "integrity": {
+      "title": "Integridad Primero",
+      "description": "Precios honestos, materiales de calidad y comunicación transparente en cada proyecto que emprendemos."
+    },
+    "community": {
+      "title": "Enfoque Comunitario",
+      "description": "Comprometidos a fortalecer nuestra comunidad local a través del servicio de calidad y la caridad."
+    },
+    "excellence": {
+      "title": "Excelencia Asegurada",
+      "description": "Cada trabajo completado con orgullo, respaldado por nuestro compromiso con la artesanía y la satisfacción del cliente."
+    }
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Desde pequeñas reparaciones hasta renovaciones importantes, manejamos cada proyecto con cuidado y experiencia",
+    "viewAll": "Ver Todos los Servicios",
+    "learnMore": "Saber Más",
+    "getQuote": "Cotización para Este Servicio"
+  },
+  "testimonials": {
+    "title": "Lo Que Dice Nuestra Comunidad",
+    "subtitle": "Testimonios de familias y empresas a las que hemos tenido el privilegio de servir",
+    "viewAll": "Ver Todos los Testimonios",
+    "leaveReview": "Dejar una Reseña"
+  },
+  "about": {
+    "title": "Construyendo Más Que Estructuras",
+    "experience": "10+ Años de Ministerio y Construcción",
+    "description": "Fundada por el Pastor John Martinez, The Good Shepherd Construction combina décadas de cuidado pastoral con artesanía experta. Como negocio familiar, trabajamos junto a nuestros hijos, enseñándoles el valor del trabajo honesto y el servicio a otros.",
+    "mission": "Nuestro trabajo es nuestro ministerio, y cada proyecto es una oportunidad de servir a otros con excelencia.",
+    "quote": "Todo lo que hagan, háganlo de corazón, como para el Señor. - Colosenses 3:23"
+  },
+  "contact": {
+    "title": "¿Listo para Comenzar Su Proyecto?",
+    "subtitle": "Póngase en contacto para una consulta gratuita. Nos encantaría hablar sobre cómo podemos servirle a usted y su familia.",
+    "phone": "Teléfono",
+    "email": "Correo",
+    "address": "Dirección",
+    "hours": "Horario Comercial",
+    "emergency": "Contacto de Emergencia",
+    "form": {
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "email": "Correo Electrónico",
+      "phone": "Teléfono",
+      "service": "Servicio Necesario",
+      "message": "Detalles del Proyecto",
+      "messagePlaceholder": "Cuéntanos sobre tu proyecto...",
+      "submit": "Enviar Mensaje",
+      "success": "¡Gracias! Nos pondremos en contacto pronto.",
+      "error": "Algo salió mal. Por favor, inténtelo de nuevo."
+    }
+  },
+  "footer": {
+    "description": "Sirviendo a nuestra comunidad con integridad, artesanía y valores cristianos por más de 10 años.",
+    "licensing": "Licenciado • Garantizado • Asegurado",
+    "copyright": "© 2024 The Good Shepherd Construction. Todos los derechos reservados. | Construido con fe e integridad."
+  }
+}

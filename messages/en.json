@@ -1,0 +1,87 @@
+{
+  "site": {
+    "title": "The Good Shepherd Construction",
+    "tagline": "Built on Faith",
+    "description": "Faith-driven family construction company serving our community with integrity, quality, and Christian values."
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "testimonials": "Testimonials",
+    "beforeAfter": "Before & After",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "getQuote": "Get Quote",
+    "language": "Español"
+  },
+  "hero": {
+    "subtitle": "Faith-Driven Excellence",
+    "title": "Building with Integrity & Faith",
+    "description": "Serving our community with honest craftsmanship and Christian values. From home repairs to complete renovations, we build lasting relationships one project at a time.",
+    "startProject": "Start Your Project",
+    "callUs": "Call Us"
+  },
+  "values": {
+    "title": "Our Foundation",
+    "subtitle": "Built on Christian principles and dedicated to serving our community with excellence",
+    "integrity": {
+      "title": "Integrity First",
+      "description": "Honest pricing, quality materials, and transparent communication in every project we undertake."
+    },
+    "community": {
+      "title": "Community Focus", 
+      "description": "Committed to strengthening our local community through quality service and charitable giving."
+    },
+    "excellence": {
+      "title": "Excellence Assured",
+      "description": "Every job completed with pride, backed by our commitment to craftsmanship and customer satisfaction."
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "From small repairs to major renovations, we handle every project with care and expertise",
+    "viewAll": "View All Services",
+    "learnMore": "Learn More",
+    "getQuote": "Get Quote for This Service"
+  },
+  "testimonials": {
+    "title": "What Our Community Says",
+    "subtitle": "Testimonials from families and businesses we've had the privilege to serve",
+    "viewAll": "View All Testimonials",
+    "leaveReview": "Leave a Review"
+  },
+  "about": {
+    "title": "Building More Than Structures",
+    "experience": "10+ Years of Ministry & Construction",
+    "description": "Founded by Pastor John Martinez, The Good Shepherd Construction combines decades of pastoral care with expert craftsmanship. As a family business, we work alongside our children, teaching them the value of honest work and service to others.",
+    "mission": "Our work is our ministry, and every project is an opportunity to serve others with excellence.",
+    "quote": "Whatever you do, work at it with all your heart, as working for the Lord. - Colossians 3:23"
+  },
+  "contact": {
+    "title": "Ready to Start Your Project?",
+    "subtitle": "Get in touch for a free consultation. We'd love to discuss how we can serve you and your family.",
+    "phone": "Phone",
+    "email": "Email", 
+    "address": "Address",
+    "hours": "Business Hours",
+    "emergency": "Emergency Contact",
+    "form": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "phone": "Phone",
+      "service": "Service Needed",
+      "message": "Project Details",
+      "messagePlaceholder": "Tell us about your project...",
+      "submit": "Send Message",
+      "success": "Thank you! We'll be in touch soon.",
+      "error": "Something went wrong. Please try again."
+    }
+  },
+  "footer": {
+    "description": "Serving our community with integrity, craftsmanship, and Christian values for over 10 years.",
+    "licensing": "Licensed • Bonded • Insured",
+    "copyright": "© 2024 The Good Shepherd Construction. All rights reserved. | Built with faith and integrity."
+  }
+}
