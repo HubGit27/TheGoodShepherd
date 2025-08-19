@@ -82,7 +82,7 @@ export default function ContactPage() {
                     <h3 className="font-semibold text-lg mb-2 text-slate-900">
                       {t('contact.phone')}
                     </h3>
-                    <p className="text-slate-700 mb-1 text-lg">(555) 123-4567</p>
+                    <p className="text-slate-700 mb-1 text-lg">(443) 858-7904</p>
                     <p className="text-sm text-slate-500">Monday - Friday, 7AM - 6PM</p>
                     <p className="text-sm text-slate-500">Emergency services available 24/7</p>
                   </div>
@@ -296,11 +296,11 @@ export default function ContactPage() {
               Need immediate assistance? We offer 24/7 emergency services for urgent construction and repair needs.
             </p>
             <a
-              href="tel:+15551234567"
+              href="tel:+14438587904"
               className="bg-red-600 hover:bg-red-700 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-colors duration-200 inline-flex items-center space-x-2"
             >
               <Phone className="w-5 h-5" strokeWidth={1.5} />
-              <span>Emergency: (555) 123-4567</span>
+              <span>Emergency: (443) 858-7904</span>
             </a>
           </AnimatedSection>
         </div>

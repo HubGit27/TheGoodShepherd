@@ -13,13 +13,15 @@ const galleryImages = [
   {
     id: '1',
     src: 'https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&h=600&fit=crop',
+    // src: '/images/gallery/project-1.jpg',
     alt: 'Construction work',
     category: 'home-contracting',
     title: 'Home Renovation Project'
   },
   {
     id: '2',
-    src: 'https://images.unsplash.com/photo-1581244277943-fe4a9c777189?w=800&h=600&fit=crop',
+     src: 'https://images.unsplash.com/photo-1581244277943-fe4a9c777189?w=800&h=600&fit=crop',
+    //src: '/images/gallery/project-2.jpg',
     alt: 'Drywall installation',
     category: 'drywall',
     title: 'Professional Drywall Installation'
@@ -27,34 +29,38 @@ const galleryImages = [
   {
     id: '3',
     src: 'https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=800&h=600&fit=crop',
+    //src: '/images/gallery/project-3.jpg',
     alt: 'House painting',
     category: 'painting',
     title: 'Exterior House Painting'
   },
   {
     id: '4',
-    src: 'https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop',
+     src: 'https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&h=600&fit=crop',
+    //src: '/images/gallery/project-4.jpg',
     alt: 'Flooring installation',
     category: 'flooring',
     title: 'Hardwood Floor Installation'
   },
   {
     id: '5',
-    src: 'https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=800&h=600&fit=crop',
+     src: 'https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=800&h=600&fit=crop',
+    //src: '/images/gallery/project-5.jpg',
     alt: 'Roofing work',
     category: 'roofing',
     title: 'Complete Roof Replacement'
   },
   {
     id: '6',
-    src: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop',
+    //src: '/images/gallery/project-6.jpg',
     alt: 'Deck construction',
     category: 'deck-building',
     title: 'Custom Deck Construction'
   },
   {
     id: '7',
-    src: 'https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=800&h=600&fit=crop',
+    src: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop',
+    //src: '/images/gallery/project-7.jpg',
     alt: 'Air conditioning',
     category: 'air-conditioning',
     title: 'HVAC Installation'
@@ -62,6 +68,7 @@ const galleryImages = [
   {
     id: '8',
     src: 'https://images.unsplash.com/photo-1621905252507-b35492cc74b4?w=800&h=600&fit=crop',
+    //src: '/images/gallery/project-8.jpg',
     alt: 'Electrical work',
     category: 'electrical',
     title: 'Electrical Panel Upgrade'
@@ -69,6 +76,7 @@ const galleryImages = [
   {
     id: '9',
     src: 'https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=800&h=600&fit=crop',
+    //src: '/images/gallery/project-9.jpg',
     alt: 'Plumbing work',
     category: 'plumbing',
     title: 'Bathroom Plumbing Installation'

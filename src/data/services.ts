@@ -18,6 +18,7 @@ export const services: Service[] = [
     },
     images: [
       {
+        // src: '/images/services/home-contracting.jpg',
         src: 'https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop',
         alt: { en: 'Home construction work', es: 'Trabajo de construcción residencial' }
       }
@@ -49,6 +50,7 @@ export const services: Service[] = [
     images: [
       {
         src: 'https://images.unsplash.com/photo-1581244277943-fe4a9c777189?w=600&h=400&fit=crop',
+        // src: '/images/services/drywall.jpg',
         alt: { en: 'Drywall installation work', es: 'Trabajo de instalación de yeso' }
       }
     ],
@@ -73,6 +75,7 @@ export const services: Service[] = [
     images: [
       {
         src: 'https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=600&h=400&fit=crop',
+        // src: '/images/services/painting.jpg',
         alt: { en: 'House painting work', es: 'Trabajo de pintura de casa' }
       }
     ],
@@ -96,7 +99,7 @@ export const services: Service[] = [
     },
     images: [
       {
-        src: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=400&fit=crop',
+        src: '/images/services/snow-removal.jpg',
         alt: { en: 'Snow removal service', es: 'Servicio de remoción de nieve' }
       }
     ],
@@ -120,7 +123,7 @@ export const services: Service[] = [
     },
     images: [
       {
-        src: 'https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=600&h=400&fit=crop',
+        src: '/images/services/flooring.jpg',
         alt: { en: 'Flooring installation', es: 'Instalación de pisos' }
       }
     ],
@@ -144,7 +147,7 @@ export const services: Service[] = [
     },
     images: [
       {
-        src: 'https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=600&h=400&fit=crop',
+        src: '/images/services/roofing.jpg',
         alt: { en: 'Roofing work', es: 'Trabajo de techado' }
       }
     ],
@@ -168,7 +171,7 @@ export const services: Service[] = [
     },
     images: [
       {
-        src: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600&h=400&fit=crop',
+        src: '/images/services/deck-building.jpg',
         alt: { en: 'Deck construction', es: 'Construcción de terraza' }
       }
     ],
@@ -192,7 +195,7 @@ export const services: Service[] = [
     },
     images: [
       {
-        src: 'https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=600&h=400&fit=crop',
+        src: '/images/services/air-conditioning.jpg',
         alt: { en: 'Air conditioning unit', es: 'Unidad de aire acondicionado' }
       }
     ],
@@ -216,7 +219,7 @@ export const services: Service[] = [
     },
     images: [
       {
-        src: 'https://images.unsplash.com/photo-1621905252507-b35492cc74b4?w=600&h=400&fit=crop',
+        src: '/images/services/electrical.jpg',
         alt: { en: 'Electrical work', es: 'Trabajo eléctrico' }
       }
     ],
@@ -240,7 +243,7 @@ export const services: Service[] = [
     },
     images: [
       {
-        src: 'https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=600&h=400&fit=crop',
+        src: '/images/services/plumbing.jpg',
         alt: { en: 'Plumbing work', es: 'Trabajo de plomería' }
       }
     ],
@@ -264,7 +267,7 @@ export const services: Service[] = [
     },
     images: [
       {
-        src: 'https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop',
+        src: '/images/services/concrete.jpg',
         alt: { en: 'Concrete work', es: 'Trabajo de concreto' }
       }
     ],

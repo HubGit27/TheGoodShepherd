@@ -1,8 +1,9 @@
 'use client'
 
 import Link from 'next/link'
+import Image from 'next/image'
 import { useLocale, useTranslations } from 'next-intl'
-import { Cross, Phone, Mail, MapPin } from 'lucide-react'
+import { Phone, Mail, MapPin } from 'lucide-react'
 
 export default function Footer() {
   const t = useTranslations()
@@ -31,8 +32,14 @@ export default function Footer() {
           {/* Company Info */}
           <div className="md:col-span-1">
             <div className="flex items-center space-x-3 mb-4">
-              <div className="bg-blue-600 text-white w-10 h-10 rounded-lg flex items-center justify-center font-semibold text-lg tracking-tight">
-                <Cross className="w-6 h-6" />
+              <div className="w-10 h-10 rounded-lg overflow-hidden">
+                <Image
+                  src="/images/logo/logo.JPG"
+                  alt="The Good Shepherd Construction Logo"
+                  width={40}
+                  height={40}
+                  className="w-full h-full object-contain"
+                />
               </div>
               <div>
                 <h3 className="font-semibold text-white tracking-tight">
@@ -88,7 +95,7 @@ export default function Footer() {
               <div className="flex items-start space-x-3">
                 <Phone className="w-4 h-4 mt-0.5 text-blue-400" />
                 <div>
-                  <p className="text-slate-300">(555) 123-4567</p>
+                  <p className="text-slate-300">(443) 858-7904</p>
                   <p className="text-slate-500">Mon - Fri, 7AM - 6PM</p>
                 </div>
               </div>

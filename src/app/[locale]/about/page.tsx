@@ -18,6 +18,8 @@ export default function AboutPage() {
               <Image
                 src="https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&h=400&fit=crop"
                 alt="Our team"
+                // src="/images/team/team-group.jpg"
+                // alt="The Good Shepherd Construction team"
                 width={600}
                 height={400}
                 className="rounded-2xl shadow-lg w-full h-96 object-cover"
@@ -81,12 +83,25 @@ export default function AboutPage() {
               {t('about.mission')}
             </p>
             <div className="bg-white p-8 rounded-xl border border-slate-200 shadow-sm">
-              <h3 className="text-lg font-semibold text-slate-900 mb-4">
-                Pastor John Martinez - Founder & Lead Contractor
-              </h3>
-              <p className="text-slate-600 leading-relaxed">
-                With 10 years of pastoral ministry and extensive construction experience, Pastor John founded The Good Shepherd Construction to serve our community through skilled craftsmanship and Christian values. Working alongside his children, he teaches the importance of honest work and serving others with excellence.
-              </p>
+              <div className="flex flex-col md:flex-row items-center space-y-6 md:space-y-0 md:space-x-8">
+                <div className="flex-shrink-0">
+                  <Image
+                    src="/images/team/pastor-john.jpg"
+                    alt="Pastor Dani Bolanos - Founder & Lead Contractor"
+                    width={120}
+                    height={120}
+                    className="rounded-full object-cover border-4 border-blue-100"
+                  />
+                </div>
+                <div className="text-center md:text-left">
+                  <h3 className="text-lg font-semibold text-slate-900 mb-4">
+                    Pastor Dani Bolanos - Founder & Lead Contractor
+                  </h3>
+                  <p className="text-slate-600 leading-relaxed">
+                    With 10 years of pastoral ministry and extensive construction experience, Pastore Dani founded The Good Shepherd Construction to serve our community through skilled craftsmanship and Christian values. Working alongside his children, he teaches the importance of honest work and serving others with excellence.
+                  </p>
+                </div>
+              </div>
             </div>
           </AnimatedSection>
         </div>

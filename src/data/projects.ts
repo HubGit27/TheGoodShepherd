@@ -12,11 +12,13 @@ export const projects: Project[] = [
       es: 'Transformación completa de cocina incluyendo gabinetes nuevos, encimeras, pisos e iluminación. Este proyecto mostró nuestra atención al detalle y artesanía de calidad.'
     },
     beforeImage: {
-      src: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&h=400&fit=crop',
+      //src: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&h=400&fit=crop',
+       src: '/images/before-after/kitchen-before.jpg',
       alt: { en: 'Kitchen before renovation', es: 'Cocina antes de renovación' }
     },
     afterImage: {
-      src: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&h=400&fit=crop',
+      //src: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&h=400&fit=crop',
+       src: '/images/before-after/kitchen-after.jpg',
       alt: { en: 'Kitchen after renovation', es: 'Cocina después de renovación' }
     },
     serviceCategory: 'home-contracting',
@@ -34,10 +36,12 @@ export const projects: Project[] = [
     },
     beforeImage: {
       src: 'https://images.unsplash.com/photo-1620626011761-996317b8d101?w=600&h=400&fit=crop',
+      // src: '/images/before-after/bathroom-before.jpg',
       alt: { en: 'Bathroom before remodel', es: 'Baño antes de remodelación' }
     },
     afterImage: {
       src: 'https://images.unsplash.com/photo-1620626011761-996317b8d101?w=600&h=400&fit=crop',
+      // src: '/images/before-after/bathroom-after.jpg',
       alt: { en: 'Bathroom after remodel', es: 'Baño después de remodelación' }
     },
     serviceCategory: 'home-contracting',
@@ -55,10 +59,12 @@ export const projects: Project[] = [
     },
     beforeImage: {
       src: 'https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=600&h=400&fit=crop',
+      //src: '/images/before-after/exterior-before.jpg',
       alt: { en: 'House before painting', es: 'Casa antes de pintar' }
     },
     afterImage: {
       src: 'https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=600&h=400&fit=crop',
+      //src: '/images/before-after/exterior-after.jpg',
       alt: { en: 'House after painting', es: 'Casa después de pintar' }
     },
     serviceCategory: 'painting',
@@ -76,10 +82,12 @@ export const projects: Project[] = [
     },
     beforeImage: {
       src: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600&h=400&fit=crop',
+      //src: '/images/before-after/deck-before.jpg',
       alt: { en: 'Backyard before deck', es: 'Patio trasero antes de terraza' }
     },
     afterImage: {
       src: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600&h=400&fit=crop',
+      //src: '/images/before-after/deck-after.jpg',
       alt: { en: 'New deck completed', es: 'Nueva terraza completada' }
     },
     serviceCategory: 'deck-building',
@@ -96,11 +104,11 @@ export const projects: Project[] = [
       es: 'Instalación de pisos de madera dura en todas las áreas principales de vida. Transformó toda la sensación del hogar con hermosas tablones de roble.'
     },
     beforeImage: {
-      src: 'https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=600&h=400&fit=crop',
+      src: '/images/before-after/flooring-before.jpg',
       alt: { en: 'Old carpet flooring', es: 'Piso de alfombra viejo' }
     },
     afterImage: {
-      src: 'https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=600&h=400&fit=crop',
+      src: '/images/before-after/flooring-after.jpg',
       alt: { en: 'New hardwood floors', es: 'Nuevos pisos de madera dura' }
     },
     serviceCategory: 'flooring',
@@ -117,11 +125,11 @@ export const projects: Project[] = [
       es: 'Reemplazo completo de techo con tejas de alta calidad. Incluyó nuevas canaletas y ventilación mejorada para mejor eficiencia energética.'
     },
     beforeImage: {
-      src: 'https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=600&h=400&fit=crop',
+      src: '/images/before-after/roof-before.jpg',
       alt: { en: 'Old damaged roof', es: 'Techo viejo dañado' }
     },
     afterImage: {
-      src: 'https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=600&h=400&fit=crop',
+      src: '/images/before-after/roof-after.jpg',
       alt: { en: 'New roof installation', es: 'Nueva instalación de techo' }
     },
     serviceCategory: 'roofing',

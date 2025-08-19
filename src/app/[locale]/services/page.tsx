@@ -63,6 +63,7 @@ export default function ServicesPage() {
                   <div className="bg-white rounded-xl border border-slate-200 overflow-hidden hover:shadow-lg transition-shadow duration-300">
                     <div className="aspect-video relative">
                       <Image
+                        // src={service.images[0]?.src || '/images/services/home-contracting.jpg'}
                         src={service.images[0]?.src || 'https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&h=400&fit=crop'}
                         alt={service.images[0]?.alt[locale as 'en' | 'es'] || service.title[locale as 'en' | 'es']}
                         fill

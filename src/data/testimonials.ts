@@ -5,13 +5,14 @@ export const testimonials: Testimonial[] = [
     id: '1',
     name: 'Maria Rodriguez',
     text: {
-      en: 'The Good Shepherd transformed our kitchen beyond our wildest dreams. Pastor John and his team treated our home like their own. Their faith-driven approach brought such peace to the entire process.',
-      es: 'The Good Shepherd transformó nuestra cocina más allá de nuestros sueños más salvajes. El Pastor John y su equipo trataron nuestro hogar como el suyo. Su enfoque impulsado por la fe trajo tanta paz a todo el proceso.'
+      en: 'The Good Shepherd transformed our kitchen beyond our wildest dreams. Pastore Dani and his team treated our home like their own. Their faith-driven approach brought such peace to the entire process.',
+      es: 'The Good Shepherd transformó nuestra cocina más allá de nuestros sueños más salvajes. El Pastore Dani y su equipo trataron nuestro hogar como el suyo. Su enfoque impulsado por la fe trajo tanta paz a todo el proceso.'
     },
     rating: 5,
     service: 'home-contracting',
     image: {
-      src: 'https://images.unsplash.com/photo-1621619856624-42fd193a0661?w=80&h=80&fit=crop&crop=face',
+      src: '/images/testimonials/maria-rodriguez.jpg',
+      // src: '/images/testimonials/maria-rodriguez.jpg',
       alt: { en: 'Maria Rodriguez', es: 'Maria Rodriguez' }
     },
     role: {
@@ -30,6 +31,7 @@ export const testimonials: Testimonial[] = [
     service: 'home-contracting',
     image: {
       src: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=80&h=80&fit=crop&crop=face',
+      // src: '/images/testimonials/david-chen.jpg',
       alt: { en: 'David Chen', es: 'David Chen' }
     },
     role: {
@@ -48,6 +50,7 @@ export const testimonials: Testimonial[] = [
     service: 'drywall',
     image: {
       src: 'https://images.unsplash.com/photo-1494790108755-2616b612b786?w=80&h=80&fit=crop&crop=face',
+      // src: '/images/testimonials/sarah-williams.jpg',
       alt: { en: 'Sarah Williams', es: 'Sarah Williams' }
     },
     role: {
@@ -66,6 +69,7 @@ export const testimonials: Testimonial[] = [
     service: 'painting',
     image: {
       src: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=80&h=80&fit=crop&crop=face',
+      // src: '/images/testimonials/michael-johnson.jpg',
       alt: { en: 'Michael Johnson', es: 'Michael Johnson' }
     },
     role: {
@@ -84,6 +88,7 @@ export const testimonials: Testimonial[] = [
     service: 'deck-building',
     image: {
       src: 'https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=80&h=80&fit=crop&crop=face',
+      //src: '/images/testimonials/carmen-martinez.jpg',
       alt: { en: 'Carmen Martinez', es: 'Carmen Martinez' }
     },
     role: {
@@ -102,6 +107,7 @@ export const testimonials: Testimonial[] = [
     service: 'plumbing',
     image: {
       src: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?w=80&h=80&fit=crop&crop=face',
+      //src: '/images/testimonials/robert-thompson.jpg',
       alt: { en: 'Robert Thompson', es: 'Robert Thompson' }
     },
     role: {

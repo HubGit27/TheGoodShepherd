@@ -2,8 +2,9 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 import { useLocale, useTranslations } from 'next-intl'
-import { Menu, X, Cross, Phone } from 'lucide-react'
+import { Menu, X, Phone } from 'lucide-react'
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
@@ -30,8 +31,14 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <Link href={`/${locale}`} className="flex items-center space-x-3">
-            <div className="bg-blue-600 text-white w-10 h-10 rounded-lg flex items-center justify-center font-semibold text-lg tracking-tight">
-              <Cross className="w-6 h-6" />
+            <div className="w-10 h-10 rounded-lg overflow-hidden">
+              <Image
+                src="/images/logo/logo.JPG"
+                alt="The Good Shepherd Construction Logo"
+                width={40}
+                height={40}
+                className="w-full h-full object-contain"
+              />
             </div>
             <div>
               <h1 className="font-semibold text-lg text-slate-900 tracking-tight">
